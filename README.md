@@ -54,16 +54,5 @@ To use my knowledge of software quality assurance and ability to learn quickly t
 **MOOC.FI (University of Helsinki)** | November 2024 - March 2025
 *   Java Programming I - Covering the fundamentals of Loop, OOP, List & Array, String, Algorithm, Debugging, and Exception Handling
 
----
-
-## Education
-
-**BSc in Computer Science & Engineering** | March 2023 - April 2027
-**International Standard University**
-*   CGPA: 3.64, Relevant Courses: OOP, DSA, Web Programming, Databases, Software Engineering, OS
-
-**HSC** | Aug 2019 - December 2021
-**BAF Shaheen College Kurmitola**
-
 
 
