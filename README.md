@@ -65,21 +65,5 @@ To use my knowledge of software quality assurance and ability to learn quickly t
 **HSC** | Aug 2019 - December 2021
 **BAF Shaheen College Kurmitola**
 
----
 
-## Reference
 
-**Hiro Mia**
-Lead QA Engineer, BRAC IT Services Ltd
-Email: hiromia006@gmail.com
-Mobile No: +880 1911-613242
-
-**Sazzad Ahsan**
-CEO, Brandmark Consultancy Ltd
-Email: sazzadbinahsan@gmail.com
-Mobile No: +880 1755-710626
-
-**Raisul Islam Ratul**
-Founder, SWISSTECH Services
-emailforratul@gmail.com
-01744414029
