@@ -1,16 +1,85 @@
-## Hi there 👋
+# Tanzim Ahmed
 
-<!--
-**mr-tanzim-ahmed/mr-tanzim-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**West Manikdi, Dhaka Cantonment | +880 1637-130073**
+[mr.tanzim.ahmed@gmail.com](mailto:mr.tanzim.ahmed@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tanzimahmed) | [GitHub](https://github.com/TanzimAhmed)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Career Objective
+To use my knowledge of software quality assurance and ability to learn quickly to create strong automation frameworks with Java and Selenium that will help the company reach its goals in a tough environment.
+
+---
+
+## Personal Projects Summary
+
+*   **Web Automation Testing:** [ParaBank (Demo Banking website)](https://parabank.parasoft.com/parabank/index.htm)
+*   **Android Automation Testing:** Simple Calculator, EMI Calculator
+*   **API Automation Testing:** Simple Grocery Store, JsonServer
+*   **DSA:** Sorting, Stack, Queue, Graph
+*   **Web Programming with AI:** BDT-Exchange-Hub (ASP.NET Core and JS), Chess, Bangla OCR Engine
+*   **Problem Solving:** [CodeForces](https://codeforces.com/), [CodeChef](https://www.codechef.com/)
+
+---
+
+## Work Experience
+
+**Junior Web Developer** | August 2024 - Present
+**SWISSTECH Services** (Mirpur DOHS, Dhaka) - Remote
+
+*   Collaborated with a team of developers to build a WordPress site.
+*   Built E-commerce, Blog, Portfolio, Educational, Business sites (Wordpress).
+*   Implemented custom front-end (HTML, CSS) design from Figma.
+*   Understood clients' requirements and delivered properly.
+*   Checked all functional testing before delivering the website.
+
+---
+
+## Skills
+
+*   **Languages:** C, C++, Java, SQL, HTML, CSS, JS
+*   **Test Automation:** Selenium WebDriver, Appium, REST-Assured, Postman
+*   **Frameworks:** TestNG, Gradle
+*   **CI/CD:** Jenkins
+*   **Performance Testing:** JMeter
+*   **OS:** Linux, Windows
+*   **Other Skills:** Wordpress, ASP.NET Core Razor Pages, Canva, Figma
+
+---
+
+## Certificates
+
+**SQA Learning Academy** | April 2025 - September 2025
+*   Completed a hands-on program covering Java, OOP, Web & Android app Automation Testing, Design Pattern (POM), Load Testing, API Testing, CI/CD, With some Demo Projects
+
+**MOOC.FI (University of Helsinki)** | November 2024 - March 2025
+*   Java Programming I - Covering the fundamentals of Loop, OOP, List & Array, String, Algorithm, Debugging, and Exception Handling
+
+---
+
+## Education
+
+**BSc in Computer Science & Engineering** | March 2023 - April 2027
+**International Standard University**
+*   CGPA: 3.64, Relevant Courses: OOP, DSA, Web Programming, Databases, Software Engineering, OS
+
+**HSC** | Aug 2019 - December 2021
+**BAF Shaheen College Kurmitola**
+
+---
+
+## Reference
+
+**Hiro Mia**
+Lead QA Engineer, BRAC IT Services Ltd
+Email: hiromia006@gmail.com
+Mobile No: +880 1911-613242
+
+**Sazzad Ahsan**
+CEO, Brandmark Consultancy Ltd
+Email: sazzadbinahsan@gmail.com
+Mobile No: +880 1755-710626
+
+**Raisul Islam Ratul**
+Founder, SWISSTECH Services
+emailforratul@gmail.com
+01744414029
