@@ -1,6 +1,6 @@
 # Tanzim Ahmed
-
-**West Manikdi, Dhaka Cantonment | +880 1637-130073**
+**Junior Web Developer | SQA Engineer**
+Dhaka, Bangladesh |
 [mr.tanzim.ahmed@gmail.com](mailto:mr.tanzim.ahmed@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tanzimahmed) | [GitHub](https://github.com/TanzimAhmed)
 
 ---
@@ -53,6 +53,4 @@ To use my knowledge of software quality assurance and ability to learn quickly t
 
 **MOOC.FI (University of Helsinki)** | November 2024 - March 2025
 *   Java Programming I - Covering the fundamentals of Loop, OOP, List & Array, String, Algorithm, Debugging, and Exception Handling
-
-
 
