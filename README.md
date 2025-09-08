@@ -1,6 +1,6 @@
 # Tanzim Ahmed
 **Junior Web Developer | SQA Engineer**
-Dhaka, Bangladesh |
+* Dhaka, Bangladesh |
 [mr.tanzim.ahmed@gmail.com](mailto:mr.tanzim.ahmed@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tanzimahmed) | [GitHub](https://github.com/TanzimAhmed)
 
 ---
