@@ -11,7 +11,7 @@ To use my knowledge of software quality assurance and ability to learn quickly t
 ---
 
 ## Personal Projects Summary
-*  **Wordpress Plugin Automation Testing:** [FlexTable(https://github.com/mr-tanzim-ahmed/wordpress-plugin-automation-testing)], WooCommerce(Checkoutflow,Order history)
+*  **Wordpress Plugin Automation Testing:** [FlexTable](https://github.com/mr-tanzim-ahmed/wordpress-plugin-automation-testing), WooCommerce(Checkoutflow,Order history)
 *   **Web Automation Testing:** [ParaBank (Demo Banking website)](https://parabank.parasoft.com/parabank/index.htm)
 *   **Android Automation Testing:** Simple Calculator, EMI Calculator
 *   **API Automation Testing:** Simple Grocery Store, JsonServer
