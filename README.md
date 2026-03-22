@@ -11,12 +11,4 @@ Dhaka, Bangladesh |
 * **API Automation Testing:** Simple Grocery Store, JsonServer
 * **DSA:** Sorting, Stack, Queue, Graph
 * **Web Programming with AI:** BDT-Exchange-Hub, Chess, Bangla OCR Engine, Weather app
-* **Problem Solving:** [CodeForces](https://codeforces.com/), [CodeChef](https://www.codechef.com/)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+* **Problem 
