@@ -11,4 +11,3 @@ Dhaka, Bangladesh |
 * **API Automation Testing:** Simple Grocery Store, JsonServer
 * **DSA:** Sorting, Stack, Queue, Graph
 * **Web Programming with AI:** BDT-Exchange-Hub, Chess, Bangla OCR Engine, Weather app
-* **Problem 
