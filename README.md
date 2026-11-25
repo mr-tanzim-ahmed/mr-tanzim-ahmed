@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="./assets/profile-header.svg" alt="Tanzim Ahmed — QA Automation Engineer and WordPress Plugin Developer" width="100%" />
+<img src="./assets/profile-header.svg" alt="Tanzim Ahmed — QA Automation Engineer and WordPress Developer" width="100%" />
 
-**I build useful WordPress tools and test software so people can trust it.**<br />
+**WordPress Developer · Software QA Engineer**<br />
+I build useful web experiences and test software so people can trust it.<br />
 CSE undergraduate · Dhaka, Bangladesh
 
 [![Email](https://img.shields.io/badge/Email-Say%20hello-2A9D8F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.tanzim.ahmed@gmail.com)
@@ -11,40 +12,44 @@ CSE undergraduate · Dhaka, Bangladesh
 
 </div>
 
-## Web & WordPress projects
+I develop responsive WordPress sites and custom Elementor plugins, and bring a quality-first mindset to web applications through structured testing, clear defect reports, and automation.
 
-- [**Click-to-Copy Elementor widget**](https://github.com/mr-tanzim-ahmed/click-to-copy-button-elementor-widget) — clipboard fallback, dynamic tags, and custom copied states · *changelog v1.1.2*
-- [**ACF Taxonomy Filter for Elementor**](https://github.com/mr-tanzim-ahmed/ACF-Taxonomy-Filter-for-Elementor) — client-side Loop Grid filtering for categories and custom taxonomies · *changelog v1.0.8*
-- [**Web project collection**](https://github.com/mr-tanzim-ahmed/Web-Project) — [BDT-ExchangeHub](https://github.com/mr-tanzim-ahmed/Web-Project/tree/main/BDT-ExchangeHub), [Bangla OCR Engine](https://github.com/mr-tanzim-ahmed/Web-Project/tree/main/Bangla%20OCR%20Engine), and [Chess Games](https://github.com/mr-tanzim-ahmed/Web-Project/tree/main/Chess%20Games)
+## Experience
 
-## University projects
+- **QA Engineer Intern · UnidevGo Software Solutions Ltd** — Feb 2026–present · Full-time · Remote<br />
+  Review requirements, design functional/regression/smoke tests, and track defects through retesting and sign-off in Jira.
+- **WordPress Developer · Codify Core Solutions** *(formerly SWISSTECH Services)* — Aug 2024–present · Remote<br />
+  Build and customize client sites, develop Elementor plugins, integrate e-commerce and Fluent tools, and implement responsive designs from Figma.
+- **Junior Web Developer (part-time) · DrawDown Markets**
 
-- **BDT Exchange Hub** — currency exchange and growth-rate application built with ASP.NET and C#
-- **DBMS Project** — database management system coursework project
+## WordPress development
 
-## Automation testing projects
+- [**Click-to-Copy Elementor widget**](https://github.com/mr-tanzim-ahmed/click-to-copy-button-elementor-widget) — custom PHP/JS/CSS widget with clipboard fallback, ACF Dynamic Tags, and styling controls.
+- [**ACF Taxonomy Filter for Elementor**](https://github.com/mr-tanzim-ahmed/ACF-Taxonomy-Filter-for-Elementor) — filters Elementor Pro Loop Grids by taxonomy with instant client-side filtering.
+- **Selected sites I've built, among many others:** E-commerce — [Azeerwear](https://azeerwear.com), [Bengal Vibes](https://bengalvibesbd.com); LMS — [Seven Stars](https://sevenstars.com); business — [Codify Core](https://codifycore.com), [Brandmark Consultancy](https://brandmarkconsultancy.com), [DrawDown Markets](https://drawdownmarkets.com/); niche — [DigiProdPass](https://digiprodpass.com), [Future Prop Firms Reviews](https://futurespropfirmsreviews.com), [Sazzad Ahsan](https://sazzadahsan.com).
 
-- [**Flextable WordPress plugin tests**](https://github.com/mr-tanzim-ahmed/wordpress-plugin-automation-testing) — Selenium, TestNG, regression checks, and GitHub Actions CI
-- [**WooCommerce automation**](https://github.com/mr-tanzim-ahmed/Woocommerce-Plugin-AutomationTesing) — Java, Selenium, and TestNG
-- [**ParaBank website automation · seleniumWithPom**](https://github.com/mr-tanzim-ahmed/seleniumWithPom) — Java, Selenium WebDriver, TestNG, ExtentReports, and POM; tests registration, login, bill payment, and account flows on [ParaBank](https://parabank.parasoft.com/parabank/index.htm)
-- **Android/Appium:** [EMI Calculator](https://github.com/mr-tanzim-ahmed/emiCalculatorAppAutomationWithPom) · [Simple Calculator](https://github.com/mr-tanzim-ahmed/simpleCalculatorAppAutomation)
-- [**API automation**](https://github.com/mr-tanzim-ahmed/apiAutomation) · Java
+## Software quality & testing
 
-## Manual testing project
+- [**Manual Testing portfolio**](https://github.com/mr-tanzim-ahmed/Manual-Testing) — requirements analysis, test planning, test cases, and bug reports.
+- **Automation projects:** [Flextable plugin](https://github.com/mr-tanzim-ahmed/wordpress-plugin-automation-testing) · [WooCommerce](https://github.com/mr-tanzim-ahmed/Woocommerce-Plugin-AutomationTesing) · [ParaBank](https://github.com/mr-tanzim-ahmed/seleniumWithPom) · [API testing](https://github.com/mr-tanzim-ahmed/apiAutomation).
+- **Mobile testing:** [EMI Calculator](https://github.com/mr-tanzim-ahmed/emiCalculatorAppAutomationWithPom) · [Simple Calculator](https://github.com/mr-tanzim-ahmed/simpleCalculatorAppAutomation).
 
-[**Manual Testing portfolio**](https://github.com/mr-tanzim-ahmed/Manual-Testing) — requirement analysis, test cases, and bug reports covering SauceDemo, OrangeHRM, TestCraft, and an SQA performance appraisal.
+## Other projects
 
-**Also building:** [Prayer-Bot](https://github.com/mr-tanzim-ahmed/Prayer-Bot), an ESP32 prayer clock with a local dashboard and focus tools.
+- [**CSE AI Chat Mentor**](https://github.com/mr-tanzim-ahmed/CSE-AI-Chat-Mentor) — bilingual study companion with chat and voice features.
+- [**Web project collection**](https://github.com/mr-tanzim-ahmed/Web-Project) — browser-based tools and games, including [Bangla OCR](https://github.com/mr-tanzim-ahmed/Web-Project/tree/main/Bangla%20OCR%20Engine) and [Chess](https://github.com/mr-tanzim-ahmed/Web-Project/tree/main/Chess%20Games).
+- [**BDT Exchange Hub**](https://github.com/mr-tanzim-ahmed/BDT-Exchange-Hub) · [**Hospital Management DBMS**](https://github.com/mr-tanzim-ahmed/Database-Project-Hospital-Management-System)
 
 ## Toolkit
 
-`Java` · `Selenium` · `TestNG` · `Appium` · `REST-Assured` · `Postman` · `JMeter` · `PHP` · `WordPress` · `Jira` · `GitHub Actions`
-
-**QA Engineer Intern** at UnidevGo Software Solutions *(Feb–May 2026)* · Former **Junior Web Developer** at CodifyCore Software Solutions, building responsive WordPress sites.
+**WordPress development:** `WordPress` · `Elementor` · `BeTheme` · `PHP` · `JavaScript` · `CSS` · `ACF`<br />
+**Plugins & integrations:** `WooCommerce` · `MasterStudy LMS` · `Tutor LMS` · `Slider Revolution` · `FluentCart` · `Fluent Forms` · `Fluent Auth` · `FluentSMTP` · `Contact Form 7`<br />
+**Quality engineering:** `Test design` · `Jira` · `Java` · `Selenium` · `TestNG` · `REST Assured` · `Appium` · `Postman` · `JMeter`<br />
+**Workflow:** `Git` · `GitHub Actions` · `Figma` · `Rank Math` · `Yoast SEO`
 
 <div align="center">
 
-*Interested in QA, automation, WordPress site development, or a plugin collaboration?*<br />
+*Open to opportunities in software quality assurance and WordPress development.*<br />
 [Email me](mailto:mr.tanzim.ahmed@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/mr-tanzim-ahmed/)
 
 </div>
