@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14213D,50:264653,100:2A9D8F&height=175&section=header&text=Tanzim%20Ahmed&fontSize=44&fontColor=F8FAFC&fontAlignY=38" alt="Tanzim Ahmed" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1100&color=2A9D8F&center=true&vCenter=true&width=520&lines=QA+Automation+Engineer;WordPress+Plugin+Developer;Java+%7C+Selenium+%7C+Appium" alt="QA Automation Engineer, WordPress Plugin Developer, Java, Selenium, Appium" />
+<img src="./assets/profile-header.svg" alt="Tanzim Ahmed — QA Automation Engineer and WordPress Plugin Developer" width="100%" />
 
 **I build useful WordPress tools and test software so people can trust it.**<br />
 CSE undergraduate · Dhaka, Bangladesh
