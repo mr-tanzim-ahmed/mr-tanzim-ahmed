@@ -15,7 +15,12 @@ CSE undergraduate · Dhaka, Bangladesh
 
 - [**Click-to-Copy Elementor widget**](https://github.com/mr-tanzim-ahmed/click-to-copy-button-elementor-widget) — clipboard fallback, dynamic tags, and custom copied states · *changelog v1.1.2*
 - [**ACF Taxonomy Filter for Elementor**](https://github.com/mr-tanzim-ahmed/ACF-Taxonomy-Filter-for-Elementor) — client-side Loop Grid filtering for categories and custom taxonomies · *changelog v1.0.8*
-- [**Web project collection**](https://github.com/mr-tanzim-ahmed/Web-Project) — BDT exchange tools, a Bangla OCR demo, and browser chess projects
+- [**Web project collection**](https://github.com/mr-tanzim-ahmed/Web-Project) — [BDT-ExchangeHub](https://github.com/mr-tanzim-ahmed/Web-Project/tree/main/BDT-ExchangeHub), [Bangla OCR Engine](https://github.com/mr-tanzim-ahmed/Web-Project/tree/main/Bangla%20OCR%20Engine), and [Chess Games](https://github.com/mr-tanzim-ahmed/Web-Project/tree/main/Chess%20Games)
+
+## University projects
+
+- **BDT Exchange Hub** — currency exchange and growth-rate application built with ASP.NET and C#
+- **DBMS Project** — database management system coursework project
 
 ## Automation testing projects
 
