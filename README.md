@@ -40,7 +40,7 @@ CSE undergraduate · Dhaka, Bangladesh
 
 `Java` · `Selenium` · `TestNG` · `Appium` · `REST-Assured` · `Postman` · `JMeter` · `PHP` · `WordPress` · `Jira` · `GitHub Actions`
 
-**QA Engineer Intern** at UnidevGo Software Solutions *(Feb–May 2026)* · Former **Junior Web Developer** building responsive WordPress sites.
+**QA Engineer Intern** at UnidevGo Software Solutions *(Feb–May 2026)* · Former **Junior Web Developer** at CodifyCore Software Solutions, building responsive WordPress sites.
 
 <div align="center">
 
