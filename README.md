@@ -26,7 +26,7 @@ CSE undergraduate · Dhaka, Bangladesh
 - I work with Astra, The7, XStore, WoodMart, and BeTheme, and configure payment gateways such as bKash and SSLCOMMERZ, SMTP mail delivery, OAuth, Cloudflare CDN, and site caching.
 - **A few of the many sites I've worked on:**
   - **E-commerce:** [Azeerwear](https://azeerwear.com), [Bengal Vibes](https://bengalvibesbd.com) · **LMS:** [Seven Stars](https://sevenstars.com)
-  - **Business:** [Codify Core](https://codifycore.com), [Brandmark Consultancy](https://brandmarkconsultancy.com), [DrawDown Markets](https://drawdownmarkets.com/)
+  - **Business:** [CodifyCore Software Solutions](https://codifycore.com), [Brandmark Consultancy](https://brandmarkconsultancy.com), [DrawDown Markets](https://drawdownmarkets.com/)
   - **Portfolio sites:** [DigiProdPass](https://digiprodpass.com), [Future Prop Firms Reviews](https://futurespropfirmsreviews.com), [Sazzad Ahsan](https://sazzadahsan.com)
 
 ## Software quality & testing
@@ -35,6 +35,16 @@ CSE undergraduate · Dhaka, Bangladesh
 - **Web testing:** [Flextable plugin](https://github.com/mr-tanzim-ahmed/wordpress-plugin-automation-testing) · [WooCommerce](https://github.com/mr-tanzim-ahmed/Woocommerce-Plugin-AutomationTesing) · [ParaBank](https://github.com/mr-tanzim-ahmed/seleniumWithPom)
 - **API testing:** [API automation project](https://github.com/mr-tanzim-ahmed/apiAutomation) using Java, REST Assured, and TestNG.
 - **Mobile testing:** [EMI Calculator](https://github.com/mr-tanzim-ahmed/emiCalculatorAppAutomationWithPom) · [Simple Calculator](https://github.com/mr-tanzim-ahmed/simpleCalculatorAppAutomation) using Appium.
+
+## Problem solving & coding practice
+
+- **Competitive programming:** [Codeforces](https://codeforces.com/profile/Tanzim_Ahmed) · [CodeChef](https://www.codechef.com/users/tanzim121)
+- **DSA practice:** [C++ algorithms and data structures](https://github.com/mr-tanzim-ahmed/Cpp)
+
+## Certifications & achievements
+
+- **Java Programming I (MOOC.fi, University of Helsinki):** [View certificate](assets/certificate-java-programming-i.png) · [Coursework](https://github.com/mr-tanzim-ahmed/Java)
+- **Software Automation Testing Course:** [View certificate](assets/Tanzim%20Ahmed%20SQA%20%20Certificate.pdf)
 
 ## Other projects
 
