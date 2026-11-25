@@ -44,7 +44,7 @@ CSE undergraduate · Dhaka, Bangladesh
 
 <div align="center">
 
-*Interested in QA, automation, or a WordPress plugin collaboration?*<br />
+*Interested in QA, automation, WordPress site development, or a plugin collaboration?*<br />
 [Email me](mailto:mr.tanzim.ahmed@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/mr-tanzim-ahmed/)
 
 </div>
